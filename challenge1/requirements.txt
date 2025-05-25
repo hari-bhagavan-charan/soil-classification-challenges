@@ -1,0 +1,13 @@
+python
+google collab(Run the code in google coolab T4 GPU)
+kaggle(for dataset)
+1numpy
+time
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+scikit-learn
+tqdm
+copy
