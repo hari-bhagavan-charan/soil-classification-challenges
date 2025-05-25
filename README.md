@@ -9,13 +9,13 @@ This repository contains two independent implementations of soil image classific
 
 ## 📦 Projects Overview
 
-1. **TensorFlow-based Model (`part2`)**
+1. **TensorFlow-based Model (`challenge-1`)**
    - Uses a custom CNN model.
    - Implemented with Keras.
    - Metrics: Accuracy, F1 Score.
    - Output: `submission.csv` with predicted labels.
 
-2. **PyTorch-based Model (`untitled16`)**
+2. **PyTorch-based Model (`challenge-2`)**
    - Uses transfer learning with ResNet18.
    - Metrics: Accuracy, F1 Score.
    - Optimized with Adam optimizer.
