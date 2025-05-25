@@ -9,7 +9,7 @@ timm
 Pillow
 tqdm
 requests
-
+shutil
 
 For GPU support with PyTorch, add this line:
 
