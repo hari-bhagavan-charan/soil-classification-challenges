@@ -1,0 +1,16 @@
+Python
+kaggle(for datasets)
+Google collab(Run the code on collab T4 gpu
+numpy
+pandas
+torch
+torchvision
+timm
+Pillow
+tqdm
+requests
+
+
+For GPU support with PyTorch, add this line:
+
+--extra-index-url https://download.pytorch.org/whl/cu113
