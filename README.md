@@ -2,6 +2,12 @@
 Soil classification challenges using ML
 
 
+# How to set up and run 
+
+you need to take the code out and replace the file  paths. That's it, and use Google Colab for uninterrupted running 
+As I ran the entire model on the collab
+
+So, copy the code and paste it in the collab, change the required paths 
 
 # Soil Type Classification Projects (TensorFlow & PyTorch)
 
